@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "285350666254",
+    "project_id": "ayudapsicologica-8ee31",
+    "storage_bucket": "ayudapsicologica-8ee31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285350666254:android:e3514e973a467ab4285c5f",
+        "android_client_info": {
+          "package_name": "com.example.chatgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285350666254-3m9r628vb3i2gfvr1o4jra2ekj1r3h2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatgpt",
+            "certificate_hash": "11eb71f83852852a582fbc0567acfbd305a842a3"
+          }
+        },
+        {
+          "client_id": "285350666254-fc5g9badqap3of984kq5n6c5c6d2obuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZvd7bTCX5_eDbXTJ8d4IUbxC0SmHyMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285350666254-fc5g9badqap3of984kq5n6c5c6d2obuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
